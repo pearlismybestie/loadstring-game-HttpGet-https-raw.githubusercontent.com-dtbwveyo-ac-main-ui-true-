@@ -1,6 +1,6 @@
 if game.PlaceId == 2788229376 then
 
-   game.Players.LocalPlayer:Kick("USER BANNED")
+   game.Players.LocalPlayer:Kick("flimflam")
 
 end
 
